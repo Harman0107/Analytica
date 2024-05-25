@@ -1,0 +1,2 @@
+This is an example file.
+It contains some sample content to demonstrate adding a file to a Git repository.
